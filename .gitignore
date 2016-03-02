@@ -23,10 +23,6 @@
 # Logs and databases #
 ######################
 *.log
-<<<<<<< HEAD
-=======
-*.sql
->>>>>>> 565e96badadab8acad752fd7efb2b1c034c41a07
 *.sqlite
 
 # OS generated files #
